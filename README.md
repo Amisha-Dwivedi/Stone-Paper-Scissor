@@ -44,7 +44,6 @@ CSS
 
 git, GitHub, GitHub Pages
 
-📩 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/shashankoffice/)
+
 
 
